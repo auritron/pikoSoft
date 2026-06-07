@@ -10,16 +10,16 @@ A cute lil OS Kernel + VM :3
 -> **VM** - [x] Planned; [ ] Not started building yet :/  
 -> **OS** - [x] Planned; [x] Started  
 -> **Programming Language** - [x] Planned and designed; [ ] Implementation still far away  
--> **Boostrapping** - [ ] *The Final BOSS*'
+-> **Boostrapping** - [ ] *The Final BOSS*'  
 
 ## Related Repos (will be updated regularly!)
 -> Assembler & ISA - https://github.com/auritron/SkalaAssembler  
--> VM - *TBA*
--> OS Kernel (Rust) - https://github.com/auritron/pikoKernel
--> Programming Language - (Not for this project, but still a cool [incomplete] project nonetheless) https://github.com/auritron/lexi-lang
+-> VM - *TBA*  
+-> OS Kernel (Rust) - https://github.com/auritron/pikoKernel  
+-> Programming Language - (Not for this project, but still a cool [incomplete] project nonetheless) https://github.com/auritron/lexi-lang  
 
 ### Check out my friend!
--> OS Bootloader (by Ashy) - https://github.com/ashy-ops/Basic-Bootloader
--> OS Kernel (by Ashy) - https://github.com/ashy-ops/Kernel_demo
+-> OS Bootloader (by Ashy) - https://github.com/ashy-ops/Basic-Bootloader  
+-> OS Kernel (by Ashy) - https://github.com/ashy-ops/Kernel_demo  
 
 
