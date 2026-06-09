@@ -1,4 +1,4 @@
-# pikoSoft
+# pikoSystem
 A cute lil OS Kernel + VM :3
 
 ## End goal?
