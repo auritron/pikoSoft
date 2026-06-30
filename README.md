@@ -20,6 +20,6 @@ A cute lil OS Kernel + VM :3
 
 ### Check out my friend!
 -> OS Bootloader (by Ashy) - https://github.com/ashy-ops/Basic-Bootloader  
--> OS Kernel (by Ashy) - https://github.com/ashy-ops/Kernel_demo  
+-> OS Kernel (by Ashy) - https://github.com/ashy-ops/Mash-OS
 
 
