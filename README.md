@@ -19,7 +19,6 @@ A cute lil OS Kernel + VM :3
 -> Programming Language - (Not for this project, but still a cool [incomplete] project nonetheless) https://github.com/auritron/lexi-lang  
 
 ### Check out my friend!
--> OS Bootloader (by Ashy) - https://github.com/ashy-ops/Basic-Bootloader  
 -> OS Kernel (by Ashy) - https://github.com/ashy-ops/Mash-OS
 
 
