@@ -6,19 +6,20 @@ A cute lil OS Kernel + VM :3
 
 ## Progress
 -> Just started... :P, developing the basic parts first before culminating it into a self-sustaining ecosystem :D  
--> **ISA and Assembler** - [x] Built; [x] Functional; [x] Modular; [ ] Optimized  
+-> **ISA and Assembler** - [ ] Currently in Refactoring process
 -> **VM** - [x] Planned; [ ] Not started building yet :/  
 -> **OS** - [x] Planned; [x] Started  
 -> **Programming Language** - [x] Planned and designed; [ ] Implementation still far away  
 -> **Boostrapping** - [ ] *The Final BOSS*'  
 
 ## Related Repos (will be updated regularly!)
--> Assembler & ISA - https://github.com/auritron/SkalaAssembler  
+-> ISA - https://github.com/auritron/pikoISA
+-> Assembler - https://github.com/auritron/SkalaAssembler  
 -> VM - *TBA*  
 -> OS Kernel (Rust) - https://github.com/auritron/pikoKernel  
 -> Programming Language - (Not for this project, but still a cool [incomplete] project nonetheless) https://github.com/auritron/lexi-lang  
 
-### Check out my friend!
+### Other projects
 -> OS Kernel (by Ashy) - https://github.com/ashy-ops/Mash-OS
 
 
