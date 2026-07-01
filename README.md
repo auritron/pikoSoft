@@ -13,7 +13,7 @@ A cute lil OS Kernel + VM :3
 -> **Boostrapping** - [ ] *The Final BOSS*'  
 
 ## Related Repos (will be updated regularly!)
--> ISA - https://github.com/auritron/pikoISA
+-> ISA - https://github.com/auritron/pikoISA  
 -> Assembler - https://github.com/auritron/SkalaAssembler  
 -> VM - *TBA*  
 -> OS Kernel (Rust) - https://github.com/auritron/pikoKernel  
