@@ -13,6 +13,7 @@ A cute lil OS Kernel + VM :3
 -> **Boostrapping** - [ ] *The Final BOSS*'  
 
 ## Related Repos (will be updated regularly!)
+-> CPU (Design for testing) - https://github.com/semismash/riscVia
 -> ISA - https://github.com/auritron/pikoISA  
 -> Assembler - https://github.com/auritron/SkalaAssembler  
 -> VM - *TBA*  
